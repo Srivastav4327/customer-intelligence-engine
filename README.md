@@ -62,14 +62,14 @@ docker compose up --build
 
 See `deploy/hf-api/` — push its contents to a new HF Docker Space.
 
-> Live API: _[Add your HF Space URL here]_
+> Live API: https://srivastav4327-customer-churn-api.hf.space/docs
 
 ### Streamlit Dashboard → Streamlit Community Cloud
 
 Connect your GitHub repo at https://share.streamlit.io  
 Set **Main file**: `dashboard/app.py`
 
-> Live Dashboard: _[Add your Streamlit Cloud URL here]_
+> Live Dashboard: https://customer-intelligence-engine-stthshw2zzgzxklcp8duwh.streamlit.app/
 
 ## Resume Bullet
 
